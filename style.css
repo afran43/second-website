@@ -100,6 +100,10 @@
     border-radius: 5px;
 }
 
+/* _________Blog section start _________*/
+/* _________Blog section start _________*/
+
+
 /* _______footer section start_______ */
 
 
@@ -117,5 +121,14 @@
     background: black;
     color: aliceblue;
     text-align: center;
+
+}
+
+/* _______footer section end_______ */
+
+@media only screen and(max-width:688px) {
+    .header {
+        background-color: blue;
+    }
 
 }
