@@ -10,7 +10,7 @@
 
 /* -------header section start----- */
 .header {
-    height: 100vh;
+    height: 70vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -60,3 +60,44 @@
     width: 100%;
     object-position: left;
 }
+
+/* ----------header section End---------- */
+
+/* _________Blog section start _________*/
+.Blog {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+}
+
+.Icon {
+    height: 20vh;
+    padding: 40px;
+    background-color: black;
+    border-radius: 5px;
+}
+
+.button {
+    text-decoration: none;
+    display: inline-block;
+    padding: 5px 10px;
+}
+
+.bton {
+    text-decoration: none;
+    margin-top: 10px;
+    display: inline-block;
+    background-color: #DD0000;
+    color: white;
+    padding: 5px 5px;
+    border-radius: 5px;
+}
+
+/* _______footer section start_______ */
