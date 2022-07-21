@@ -101,3 +101,21 @@
 }
 
 /* _______footer section start_______ */
+
+
+.footer .footer-col-1 {
+    background: black;
+    font-size: 14px;
+    padding: 40px 0 20px;
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 1px;
+
+}
+
+.footer-col-2 {
+    background: black;
+    color: aliceblue;
+    text-align: center;
+
+}
